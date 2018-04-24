@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/IjemmaOnwuzulike/.nvm/versions/node/v6.9.5/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js start
+
+PATH: 
+  /Users/IjemmaOnwuzulike/.rvm/gems/ruby-2.4.2/bin:/Users/IjemmaOnwuzulike/.rvm/gems/ruby-2.4.2@global/bin:/Users/IjemmaOnwuzulike/.rvm/rubies/ruby-2.4.2/bin:/Users/IjemmaOnwuzulike/.nvm/versions/node/v6.9.5/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/IjemmaOnwuzulike/.rvm/gems/ruby-2.4.2/bin:/Users/IjemmaOnwuzulike/.rvm/gems/ruby-2.4.2@global/bin:/Users/IjemmaOnwuzulike/.rvm/rubies/ruby-2.4.2/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/IjemmaOnwuzulike/.rvm/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  6.9.5
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/IjemmaOnwuzulike/Documents/Dartmouth/Classes/18S/Full-Stack Web Development/workshops/webmaps"
+      at MessageError.Error (native)
+      at new MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:40048:15
+      at next (native)
+      at step (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:109:13
